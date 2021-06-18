@@ -11,5 +11,11 @@
 
 <a href="https://colab.research.google.com/github/javsubs91/qBittorent/blob/main/qBittorent_for_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+---
+
+---
+
+Screenshoot:
 
 
+<img src="https://github.com/javsubs91/qBittorent-colab-gdrive/blob/main/Screenshot%20(358).png?raw=true" height="480px" align="left"></a>
