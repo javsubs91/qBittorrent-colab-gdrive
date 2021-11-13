@@ -1,6 +1,6 @@
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Qbittorrent_logo.png" height="80px" align="left"></a>
 
-# <font size7>**qBittorent for colab**</font>
+# <font size7>**qBittorrent for colab**</font>
 
 
 # `By: javsubs91`
