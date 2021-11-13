@@ -9,7 +9,7 @@
 
 
 
-<a href="https://colab.research.google.com/github/javsubs91/qBittorent/blob/main/qBittorent_for_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/javsubs91/qBittorent-colab-gdrive/blob/main/qBittorrent_for_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ---
 
