@@ -13,9 +13,3 @@
 
 ---
 
----
-
-Screenshoot:
-
-
-<img src="https://github.com/javsubs91/qBittorent-colab-gdrive/blob/main/qBittorent%204.3.3%20preview.jpg?raw=true" height="480px" align="left"></a>
